@@ -15,6 +15,15 @@
 [npm-next]: https://img.shields.io/npm/v/@coreui/vue/next.png?style=flat-square
 [npm]: https://www.npmjs.com/package/@coreui/vue
 
+# JON HERI DOCUMENTATION
+
+# Yang dibutuhkan pada saat project ini dijalankan di local
+
+- Menggunakan OS Windows 10 (Mungkin semua OS bisa, asal ikuti semua petunjuk yang ada)
+- Pastikan ter-install Node JS versi 16.x.x, cek di terminal dengan sintak "node -v"
+- Pastikan ter-install NPM versi 8.x.x, cek di terminal dengan sintak "npm -v"
+- Pastikan ter-install @vue/cli 5.0.0, cek di terminal dg sintak "vue --version"
+
 # CoreUI Free Vue Admin Template v4
 
 CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
@@ -164,12 +173,3 @@ There is only one limitation you can't can’t re-distribute the CoreUI as stock
 CoreUI is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying [CoreUI Pro Version](https://coreui.io/pro/).
 
 We're also open to conversations regarding custom sponsorship / consulting arrangements. Get in touch on [Twitter](https://twitter.com/lukaszholeczek).
-
-# JON HERI DOCUMENTATION
-
-# Yang dibutuhkan pada saat project ini dijalankan di local
-
-- Menggunakan OS Windows 10 (Mungkin semua OS bisa, asal ikuti semua petunjuk yang ada)
-- Pastikan ter-install Node JS versi 16.x.x, cek di terminal dengan sintak "node -v"
-- Pastikan ter-install NPM versi 8.x.x, cek di terminal dengan sintak "npm -v"
-- Pastikan ter-install @vue/cli 5.0.0, cek di terminal dg sintak "vue --version"
