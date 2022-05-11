@@ -169,7 +169,7 @@ We're also open to conversations regarding custom sponsorship / consulting arran
 
 # Yang dibutuhkan pada saat project ini dijalankan di local
 
-- Menggunakan OS Windows 10 (Mungkin semua OS Bisa)
+- Menggunakan OS Windows 10 (Mungkin semua OS bisa, asal ikuti semua petunjuk yang ada)
 - Pastikan ter-install Node JS versi 16.x.x, cek di terminal dengan sintak "node -v"
 - Pastikan ter-install NPM versi 8.x.x, cek di terminal dengan sintak "npm -v"
 - Pastikan ter-install @vue/cli 5.0.0, cek di terminal dg sintak "vue --version"
